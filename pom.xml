@@ -45,8 +45,7 @@
 					<source>1.8</source>
 					<target>1.8</target> 
 				</configuration>
-			</plugin>
-
+			</plugin> 
 			<!-- Plugin para rodar o Tomcat no Heroku -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
